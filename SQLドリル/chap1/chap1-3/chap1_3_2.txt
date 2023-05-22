@@ -1,0 +1,11 @@
++---------------------------+
+| referer                   |
++---------------------------+
+| http://wings.msn.to/hamu/ |
+| http://wings.msn.to/neko/ |
+| http://wings.msn.to/inu/  |
+| http://wings.msn.to/saru/ |
+| http://wings.msn.to/tori/ |
+| http://wings.msn.to/kame/ |
+| NULL                      |
++---------------------------+
