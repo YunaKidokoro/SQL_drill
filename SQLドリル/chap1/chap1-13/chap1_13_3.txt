@@ -1,0 +1,10 @@
++---------------------------+------------+--------+
+| referer                   | カウント数 | ランク |
++---------------------------+------------+--------+
+| http://wings.msn.to/hamu/ |        100 | A      |
+| http://wings.msn.to/neko/ |         11 | B      |
+| http://wings.msn.to/saru/ |          4 | C      |
+| http://wings.msn.to/inu/  |          3 | C      |
+| http://wings.msn.to/tori/ |          3 | C      |
+| http://wings.msn.to/kame/ |          3 | C      |
++---------------------------+------------+--------+
