@@ -1,0 +1,8 @@
++---------------------------+----------+
+| referer                   | COUNT(*) |
++---------------------------+----------+
+| http://wings.msn.to/neko/ |        3 |
+| http://wings.msn.to/tori/ |        1 |
+| http://wings.msn.to/saru/ |        1 |
+| http://wings.msn.to/kame/ |        1 |
++---------------------------+----------+
